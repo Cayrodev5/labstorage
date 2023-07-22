@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+*{
+    color: #fff;
+    font-family: arial;
+  }
+  
+  body {
+    margin: 20px;
+    background-color:#4472C4
+  }
+  
+  h1 {
+    font-size: 5em;
+   
+  }
+  
+  .buttons {
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    margin-right: 6px;
+    border-radius: 0.5em;
+    /*box-shadow: 5px 10px #888888;*/
+    background-color: #C55A11;
+  }
+  
+  .buttons a:hover {
+    font-weight: bold;
+  }
+  
+  .textfield {
+
+    width: 40%;
+    border-radius: 0.5em;
+    color: black;
+
+
+  }
+
+  #submitaddreagent {
+
+    margin-top: 5px;
+
+
+  }
